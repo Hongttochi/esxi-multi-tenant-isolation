@@ -162,8 +162,8 @@
 
 | Document | Description |
 |----------|-------------|
-| [01. Problem Statement](./01_problem-definition.md) | 프로젝트 배경 및 기술적 과제 |
-| [02. Architecture Design](./02_architecture-design.md) | 전체 인프라 설계 |
-| [03. Resource Allocation](./03_resource-allocation-strategy.md) | CPU / Memory / Storage 전략 |
-| [04. Network Segmentation](./04_network-segmentation.md) | VLAN 및 Subnet 설계 |
-| [05. Security Architecture](./05_security-design.md) | Firewall 및 VPN 설계 |
+| [01. Problem Statement](./manual/01_problem-definition.md) | 프로젝트 배경 및 기술적 과제 |
+| [02. Architecture Design](./manual/02_architecture-design.md) | 전체 인프라 설계 |
+| [03. Resource Allocation](./manual/03_resource-allocation-strategy.md) | CPU / Memory / Storage 전략 |
+| [04. Network Segmentation](./manual/04_network-segmentation.md) | VLAN 및 Subnet 설계 |
+| [05. Security Architecture](./manual/05_security-design.md) | Firewall 및 VPN 설계 |
